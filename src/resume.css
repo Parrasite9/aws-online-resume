@@ -1,0 +1,47 @@
+.App_container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.headshot {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 20% auto;
+}
+
+header {
+    background: #333;
+    color: #f2f2f2;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header > h1 {
+    margin: 0;
+}
+
+section {
+    background: #f2f2f2;
+    margin: 20px 0;
+    padding: 20px;
+}
+
+.entry {
+    background: #e2e2e2;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-left: 3px solid #333;
+}
+
+.entry:hover {
+    background: #ccc;
+}
+
+.entry.active {
+    background: #333;
+    color: #f2f2f2;
+}
+
