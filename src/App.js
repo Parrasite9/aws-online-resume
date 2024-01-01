@@ -34,36 +34,39 @@ function App() {
         <section className='employmentHistory'>
           <h2>Employment History</h2>
           <div className="timeline">
-          <div class="parent">
-            <div class="div1"><strong>The Walt Disney Company</strong></div>
-            <div class="div2"><strong>Orlando, FL</strong></div>
-            <div class="div3">Cast Member</div>
-            <div class="div4">October 2022 - January 2023</div>
-          </div>
+
             <ul>
+            <div class="parent">
+              <div class="div1"><strong>The Walt Disney Company</strong></div>
+              <div class="div2"><strong>Orlando, FL</strong></div>
+              <div class="div3">Cast Member</div>
+              <div class="div4">October 2022 - January 2023</div>
+            </div>
               <li>Spearheaded conflict resolution strategies, enhancing customer experience using problem-solving skills in a high-pressure environment.</li>
               <li>Developed and implemented client-focused solutions, demonstrating adaptability and technical proficiency.</li>
             </ul>
 
-            <div class="parent">
-              <div class="div1"><strong>General Assembly</strong></div>
-              <div class="div2"><strong>New York, NY</strong></div>
-              <div class="div3">Software Engineer Fellow</div>
-              <div class="div4">October 2022 - January 2023</div>
-            </div>
+
             <ul>
+              <div class="parent">
+                <div class="div1"><strong>General Assembly</strong></div>
+                <div class="div2"><strong>New York, NY</strong></div>
+                <div class="div3">Software Engineer Fellow</div>
+                <div class="div4">October 2022 - January 2023</div>
+              </div>
               <li>Executed multiple full-stack projects using HTML, CSS, JavaScript, React, Node.js; significantly improved web development expertise.</li>
               <li>Led code reviews, elevating code quality through comprehensive feedback and collaboration.</li>
               <li>Developed WordPress sites integrating PHP and Elementor, enhancing dynamic web capabilities and user engagement.</li>
             </ul>
 
-            <div class="parent">
-            <div class="div1"><strong>SeductiveBox</strong></div>
-            <div class="div2"><strong>Fort Stockton, TX</strong></div>
-            <div class="div3">Web Developer</div>
-            <div class="div4">January 2020 - January 2023</div>
-          </div>
+
             <ul>
+            <div class="parent">
+              <div class="div1"><strong>SeductiveBox</strong></div>
+              <div class="div2"><strong>Fort Stockton, TX</strong></div>
+              <div class="div3">Web Developer</div>
+              <div class="div4">January 2020 - January 2023</div>
+            </div>
               <li>Engineered robust websites using HTML, CSS, JavaScript, jQuery; focused on SEO optimization and responsive design.</li>
               <li>Implemented advanced WordPress functionalities with PHP, achieving a 2500% increase in profitability through
                   strategic web development.</li>
