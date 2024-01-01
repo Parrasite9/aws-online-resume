@@ -34,20 +34,35 @@ function App() {
         <section className='employmentHistory'>
           <h2>Employment History</h2>
           <div className="timeline">
-            <h4>The Walt Disney Company, Orlando FL USA - Cast Member (June 2023 – Oct 2023)</h4>
+          <div class="parent">
+            <div class="div1"><strong>The Walt Disney Company</strong></div>
+            <div class="div2"><strong>Orlando, FL</strong></div>
+            <div class="div3">Cast Member</div>
+            <div class="div4">October 2022 - January 2023</div>
+          </div>
             <ul>
               <li>Spearheaded conflict resolution strategies, enhancing customer experience using problem-solving skills in a high-pressure environment.</li>
               <li>Developed and implemented client-focused solutions, demonstrating adaptability and technical proficiency.</li>
             </ul>
 
-            <h4>General Assembly, New York NY USA - Software Engineer Fellow (October 2022 - January 2023)</h4>
+            <div class="parent">
+              <div class="div1"><strong>General Assembly</strong></div>
+              <div class="div2"><strong>New York, NY</strong></div>
+              <div class="div3">Software Engineer Fellow</div>
+              <div class="div4">October 2022 - January 2023</div>
+            </div>
             <ul>
               <li>Executed multiple full-stack projects using HTML, CSS, JavaScript, React, Node.js; significantly improved web development expertise.</li>
               <li>Led code reviews, elevating code quality through comprehensive feedback and collaboration.</li>
               <li>Developed WordPress sites integrating PHP and Elementor, enhancing dynamic web capabilities and user engagement.</li>
             </ul>
 
-            <h4>SeductiveBox, Fort Stockton TX USA - Web Developer (January 2020 - January 2023)</h4>
+            <div class="parent">
+            <div class="div1"><strong>SeductiveBox</strong></div>
+            <div class="div2"><strong>Fort Stockton, TX</strong></div>
+            <div class="div3">Web Developer</div>
+            <div class="div4">January 2020 - January 2023</div>
+          </div>
             <ul>
               <li>Engineered robust websites using HTML, CSS, JavaScript, jQuery; focused on SEO optimization and responsive design.</li>
               <li>Implemented advanced WordPress functionalities with PHP, achieving a 2500% increase in profitability through
