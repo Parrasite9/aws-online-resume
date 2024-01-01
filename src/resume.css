@@ -19,6 +19,10 @@ header {
     text-align: center;
 }
 
+header > p > a {
+    color: #4A90E2;
+}
+
 header > h1 {
     margin: 0;
 }

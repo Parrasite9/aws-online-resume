@@ -9,7 +9,7 @@ function App() {
         <header>
           <img src="https://i.imgur.com/1uERBnk.jpg" alt="Headshot" className='headshot' />
           <h1 className='name'>Isaiah Johnson</h1>
-          <p className='contactInfo'>+18065352419 | johnsonisaiah13@yahoo.com | [LinkedIn](https://www.linkedin.com/in/isaiah-johnson123/) | [GitHub](https://github.com/Parrasite9) | [Personal Website](https://www.johnsonwebsolutions.com/)</p>
+          <p className='contactInfo'> <a href="tel:+18065352419">+18065352419</a> | <a href="mailto:johnsonisaiah13@yahoo.com">johnsonisaiah13@yahoo.com</a> | <a href="https://www.linkedin.com/in/isaiah-johnson123/">LinkedIn</a> | <a href="https://github.com/Parrasite9">GitHub</a> | <a href="https://www.johnsonwebsolutions.com/">Portfolio</a></p>
         </header>
 
         <section className='employmentHistory'>
