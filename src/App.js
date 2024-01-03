@@ -10,6 +10,7 @@ function App() {
           <img src="https://i.imgur.com/1uERBnk.jpg" alt="Headshot" className='headshot' />
           <h1 className='name'>Isaiah Johnson</h1>
           <p className='contactInfo'> <a href="tel:+18065352419">+18065352419</a> | <a href="mailto:johnsonisaiah13@yahoo.com">johnsonisaiah13@yahoo.com</a> | <a href="https://www.linkedin.com/in/isaiah-johnson123/">LinkedIn</a> | <a href="https://github.com/Parrasite9">GitHub</a> | <a href="https://www.johnsonwebsolutions.com/">Portfolio</a></p>
+          <button className='download_button'><a href="https://drive.google.com/file/d/1cjHv7j_NBrIlpOjG8KCUfCNA_ufplFNx/view?usp=sharing" target="_blank">Download Resume</a></button>
         </header>
 
         <section className='education'>
